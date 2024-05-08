@@ -1,9 +1,9 @@
 # SlimeMold-Algorithm
 The project explores optimizing urban and rural networks, inspired by <b> Slime Molds </b> like <i> Physarum Polycephalum </i>. Inefficient networks hinder development, but slime molds efficiently create optimal networks. Their resemblance to Japan's metro network led to the Slime Mold Algorithm (SMA), offering a novel solution to network optimization.<br>
 <pre>
-Website link : https://sites.google.com/view/dmproject786/homepage
+Website link : <href> https://sites.google.com/view/dmproject786/homepage </href>
 <br>
-Explanation Video : https://youtu.be/LNTP5lxMyCM
+Explanation Video : <href> https://youtu.be/LNTP5lxMyCM </href>
 <br>
 Project Done by : Jay Goyani, Namra Monapara, Harsh Rajwani, Zenil Rupareliya, Kashvi Bhanderi, Darshak Kukadiya
 <br>
